@@ -1,8 +1,10 @@
 #!/bin/bash
 #
-# Based on ncodutti script
+# Based on mcodutti script
 #
-# Author : Lopixable
+# Author  : Lopixable
+# Version : 0.2
+# Date    : 2013-03-19
 #
 # Script pour compiler/lier en asm
 
