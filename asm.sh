@@ -2,7 +2,7 @@
 #
 # Based on mcodutti script
 #
-# Author  : Lopixable
+# Author  : lopixable
 # Version : 0.2
 # Date    : 2013-03-19
 #
