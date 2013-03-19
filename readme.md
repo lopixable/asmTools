@@ -9,6 +9,9 @@
 ## Usage
     $ asm (-d) nom_programme
 
+## Option
+    -d    add debug info to the executable
+
 ## Require
     - nasm
     - ld
