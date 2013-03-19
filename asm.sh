@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Based on mcodutti script
+# Based on mcodutti's script
 #
 # Author  : lopixable
 # Version : 0.1
