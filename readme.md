@@ -1,3 +1,6 @@
+# asmTools
+This script allow you to compile and link an asm (intel) code with basic options.
+
 # Install for linux (debian based):
 
 ## Update rights
