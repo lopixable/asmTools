@@ -1,14 +1,14 @@
-## Install for linux (debian based):
+# Install for linux (debian based):
 
-# Update rights
+## Update rights
     $ sudo chmod +x asm.sh
 
-# Move to commands directory
+## Move to commands directory
     $ sudo mv asm.sh /usr/bin/asm
 
-# Usage
+## Usage
     $ asm (-d) nom_programme
 
-# Require
+## Require
     - nasm
     - ld
