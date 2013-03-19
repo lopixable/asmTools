@@ -3,7 +3,7 @@
 # Based on mcodutti script
 #
 # Author  : lopixable
-# Version : 0.2
+# Version : 0.1
 # Date    : 2013-03-19
 #
 # Script pour compiler/lier en asm
